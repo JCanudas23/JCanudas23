@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Joaquin Canudas Ribo 👋
 
 <!--
 **JCanudas23/JCanudas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
